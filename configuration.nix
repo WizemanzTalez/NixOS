@@ -140,13 +140,17 @@
     tldr
     tmux
     wget
+    helix
     figlet
     lolcat
+    cmatrix
+    cbonsai
     fastfetch
     neovim
     zoxide
     yazi
     zsh
+    zed
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
